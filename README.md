@@ -1,7 +1,7 @@
 Performance Engineering Lab, UCD
 ==========================================================
 
-This repository contains datasets used in the research activities of Vanessa Ayala-Rivera during her work at the **Performance Engineering Laboratory** at the [School of Computer Science and Informatics (University College Dublin)](http://www.csi.ucd.ie).
+This repository contains datasets used in the research activities of the **Performance Engineering Laboratory** at the [School of Computer Science (University College Dublin)](http://www.csi.ucd.ie).
 
 Datasets
 ----------------------
