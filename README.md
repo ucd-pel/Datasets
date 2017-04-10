@@ -19,6 +19,6 @@ Please cite as: Ayala-Rivera, V., McDonagh, P., Cerqueus, T. & Murphy, L. "A Sys
 #### 1.3 Synthetic Data Generation using Benerator Tool (https://csiweb.ucd.ie/files/UCD-CSI-2013-03.pdf)
 Please cite as: Ayala-Rivera, V., McDonagh, P., Cerqueus, T. & Murphy, L. "Synthetic Data Generation using Benerator Tool." Technical Report UCD-CSI-2013-03, University College Dublin, November 2013.
 
-#### 2. [Insurance Datasets] (https://github.com/ucd-pel/Datasets/tree/master/Insurance) ###
+### 2. [Insurance Datasets] (https://github.com/ucd-pel/Datasets/tree/master/Insurance) ###
 
 These datasets correspond to tabular data containing records with social and demographic information from individuals. This information coresponds to attributes such as their age, occupation, workplace, favorite recreational activity and places where this is practiced. Moreover, this datasets contain two classification attributes (risk of accident and salary class).
